@@ -1,0 +1,12 @@
+.nav-bg{
+    background-color: #892be2;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+    transition: .5s;
+    color: #fff;
+}
+#img-java{
+    margin: 5% auto;
+    width: 40%;
+}

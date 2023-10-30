@@ -1,0 +1,69 @@
+ul li{
+    list-style: none;
+}
+.nav-bg{
+    background-color: #892be2e6;
+}
+.profile img{
+    width: 200px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+.nav-item a:hover{
+    text-decoration: underline;
+    transition: .5s;
+    color: #fff;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #fff;
+}
+header{
+    padding-top: 25px;
+    background-image: linear-gradient(#21d5fdd7 45%, #ae00ff 98%,  #fff 100%);
+}
+header .container{
+    margin-top: 100px;
+}
+.ab{
+    margin-top: -1px;
+    padding-top: 55px;
+    padding-bottom: 100px;
+}
+main{
+    margin-top: -1px;
+    padding-top: 40px;
+}
+main .container{
+    padding-bottom: 80px;
+}
+
+footer{
+    background-color: #1c1e21;
+    color: #fff;
+}
+footer form{
+    width: 80%;
+    margin: auto;
+}
+.sosmed{
+    margin-top: 25px;
+}
+.sosmed ul{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0;
+}
+.sosmed a{
+    margin: auto 3%;
+    background-color: #1c1e21;
+    border: 1px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    justify-content: center;
+}
+footer p{
+    margin-bottom: 0;
+}
